@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Lucida Grande, Arial, sans-serif;
+}
+
+input[type="radio"] , input[type="checkbox"]{
+   -webkit-transform: scale(3.0);
+   transform: scale(3.0);
+   margin-right: 0.5em;
+}
